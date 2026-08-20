@@ -15,3 +15,5 @@ def multivariate_newton(gradient, hessian, x0, tol=1e-6, max_iter=100):
         x = x_new
 
     return x
+
+    #Amazing job!
